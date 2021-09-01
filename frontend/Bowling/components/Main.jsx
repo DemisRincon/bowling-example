@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { addFrame } from '../methods/bowling'
-import styles from '../styles/Main.scss'
+import styles from '../styles/Main.module.scss'
 import Board from './Board'
 import Button from './Button'
 const Bowling = () => {

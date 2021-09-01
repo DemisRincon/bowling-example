@@ -1,5 +1,5 @@
 import React from 'react'
-import '../styles/Button.scss'
+import '../styles/Button.module.scss'
 const Button = ({text,action}) => {
     return (
         <button onClick={action}>
